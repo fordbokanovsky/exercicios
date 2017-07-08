@@ -12,4 +12,4 @@ l.append(n3)
 l.append(n4)
 l.append(n5)
 
-print("Soma total = {}\nMédia = {}".format(sum(l), sum(l) / len(l)))#fdf
+print("Soma total = {}\nMédia = {}".format(sum(l), sum(l) / len(l)))

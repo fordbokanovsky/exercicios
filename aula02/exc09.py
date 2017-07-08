@@ -4,4 +4,4 @@ def func(a):
     else:
         print("{} é negativo!".format(a))
 
-func(-2)#fd
+func(-2)
