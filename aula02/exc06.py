@@ -20,5 +20,5 @@ while True:
         print("Finalizado!")
         break
     else:
-        print("Opção não disponível!\n")
+        print("Opção não disponível!\n")#fdf
         continue
