@@ -1,3 +1,3 @@
 nome = input("Digite seu nome: ")
 
-print(nome[::-1])#
+print(nome[::-1])

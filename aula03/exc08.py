@@ -1,6 +1,6 @@
 nome = input("Digite seu nome: ")
 
-c = 0#
+c = 0
 
 for l in nome:
     print(c * " " + l)

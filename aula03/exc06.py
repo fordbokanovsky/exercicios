@@ -10,7 +10,7 @@ for i in range(1, 30):
     d.update({idade : altura})
 
 for age in d:
-    if int(age) > 13 and d[age] < 1.60:#
+    if int(age) > 13 and d[age] < 1.60:
         c += 1
 
 print("Total de alunos com mais de 13 anos com altura inferior à média: {}".format(c))

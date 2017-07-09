@@ -5,7 +5,7 @@ for i in l:
 
 # Ou...
 
-from math import pow#
+from math import pow
 
 for i in l:
     print(pow(i, 2))

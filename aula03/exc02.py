@@ -12,4 +12,4 @@ if n > 0:
         if primo:
             print("{} é primo!".format(i))
 else:
-    print("Número errado!")#
+    print("Número errado!")
