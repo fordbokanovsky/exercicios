@@ -15,3 +15,4 @@ mes = int(data[1])
 for key in d:
     if mes == d[key]:
         print(data[0], key, data[2])
+        break
