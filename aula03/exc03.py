@@ -4,4 +4,4 @@ c = 0
 for n in l:
     if type(n) is int and c < 5:
         print(n)
-        c += 1
+        c += 1#
